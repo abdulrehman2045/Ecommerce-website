@@ -1,0 +1,107 @@
+Create a high-quality, professional, fully responsive programming learning website similar to GeeksforGeeks using only:
+
+HTML
+CSS
+JavaScript
+jQuery
+Bootstrap 5
+
+⚠️ Strict Requirements:
+
+• Entire website must be inside ONE SINGLE HTML FILE
+• No backend
+• No external frameworks except Bootstrap & jQuery CDN
+• Clean, well-structured code
+• Modern light theme (soft white + light gray + green accent like GeeksforGeeks)
+• Fully responsive (mobile, tablet, desktop)
+• Smooth animations
+• Polished UI
+• Production-level design (not demo style)
+
+🎨 Design Requirements:
+
+• Sticky Navbar with:
+  - Logo (CodeMaster or LearnHub)
+  - Home
+  - Languages Dropdown
+  - Tutorials
+  - Practice
+  - Contact
+  - Search bar
+  - Mobile hamburger menu
+
+• Hero Section:
+  - Big heading: “Learn Programming the Smart Way”
+  - Short description
+  - 2 buttons: Start Learning & Explore Languages
+  - Clean gradient or soft background
+  - Smooth fade-in animation
+
+• Languages Section (Card Layout Grid):
+  Show at least 6 programming languages:
+  - HTML
+  - CSS
+  - JavaScript
+  - Python
+  - C++
+  - Java
+
+  Each card must include:
+  - Icon
+  - Short description
+  - “Learn More” button
+  - Hover animation (lift effect + shadow)
+
+• When clicking "Learn More":
+  Show a dynamic content section (without page reload) using JavaScript.
+  It should display:
+    - Introduction
+    - Syntax Example
+    - Code block with copy button
+    - Small explanation
+    - Practice button
+
+• Code blocks must:
+  - Have dark background
+  - Copy-to-clipboard button
+  - Clean typography
+
+• Practice Section:
+  - Small interactive quiz (MCQ)
+  - Show result using modal or alert
+  - Score calculation with JS
+
+• Search Functionality:
+  - Real-time filter languages
+  - Implement using jQuery
+
+• Footer:
+  - About
+  - Quick Links
+  - Social Icons
+  - Copyright
+  - Clean modern layout
+
+✨ Extra UI Enhancements:
+
+• Smooth scrolling
+• Button hover effects
+• Card hover animations
+• Section spacing
+• Proper margins & padding
+• Professional font styling
+• Subtle shadows
+• Clean container spacing
+
+⚡ UX Quality:
+
+• Fast loading
+• Well-commented code
+• Organized sections
+• No messy inline CSS
+• Structured CSS inside <style>
+• Structured JS inside <script>
+
+Make it look like a real professional educational platform — not basic student project.
+
+The final result should feel like a premium coding learning platform.
